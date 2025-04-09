@@ -7,7 +7,7 @@ I specialize in architecture, design, and development, with a passion for integr
 - 🌱 **Currently learning**: Blockchain, Next.js, and 3D Gaming – always pushing the boundaries of tech.  
 - 🛠 **Expertise**: Frontend (HTML5, CSS/SCSS, JavaScript, React), Backend (PHP, .NET/C#, MySQL, Node Js), Cloud (Azure, DevOps, Power Platform).  
 - 💬 **Ask me about**: Solution architecture, agile project management, or how to build portals that scale seamlessly.
-- 📫 **Reach me**: [t.me/Grok_Orcmine](https://t.me/Grok_Orcmine) | [pedropimentabr@gmail.com](mailto:pedropimentabr@gmail.com)  
+- 📫 **Reach me**: [X Profile](https://x.com/devpedrolive)  | [Telegram](https://t.me/Grok_Orcmine) | [E-mail](mailto:pedropimentabr@gmail.com)  
 - 🌐 **Based in**: Portugal | **Languages**: Portuguese (Native), English (B2)
 
 ### A Bit More About Me  
